@@ -27,6 +27,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun calculate(){
-        Toast.makeText(this,"Fui Clicado", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this,"Fui Clicado denovo", Toast.LENGTH_SHORT).show()
     }
 }
